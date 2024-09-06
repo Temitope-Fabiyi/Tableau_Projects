@@ -23,13 +23,13 @@ This dashboard aims to provide the executives with a clear, data-driven view of 
 
 
 ## Dashboard
-**Bikestores Dashboard**
-![https://public.tableau.com/app/profile/temitope.fabiyi/viz/Bikestore_17237836157350/Dashboard1.jpeg](<../Bikestores Dashboard.png>)
+**Bikestores Dashboard**     
+![Dashboard](https://github.com/Temitope-Fabiyi/Tableau_Projects/blob/main/Bikestores/Bikestores_Dashboard1.png)  
 
 
 ## Visualization Tools  
 * Tool used🛠️: Tableau  
-* Data set used:  [Bikestores Dataset](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWxRR2I1TGlRZUlISV8wR0dUSm0xdlJ1VDE5UXxBQ3Jtc0tsZGljSFppdWRia3JmeEhzNW9jSkZDcks2WDFad1VmcG5fWk9GdmlFZFFuUHRCeVczV21XRms5N1BycV9GOEFtblhQemtObC1MczJVSnZyNUZZRlRta2xjb1FNTC1sbW5lbk82Qlc5V3VUYnVzaVROdw&q=https%3A%2F%2Fwww.sqlservertutorial.net%2Fwp-content%2Fuploads%2FSQL-Server-Sample-Database.zip&v=1pHYKdyRvrw)  
+
 
 This Tableau project utilizes a diverse range of visualizations, including bar charts, area charts, and tree maps. Each visualization is thoughtfully designed to present complex data in a clear and visually compelling manner, optimizing both accessibility and user engagement.  
 For an enhanced viewing and interactive experience with the dashboard, please click [**HERE**](https://public.tableau.com/views/Bikestore_17237836157350/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
